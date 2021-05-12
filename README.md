@@ -1,5 +1,5 @@
 # Store
 
-Store o tienda responsive en donde se utiliza flex.
+Store o tienda responsive.
 
 Página de visita: https://beto1986.github.io/Store/
